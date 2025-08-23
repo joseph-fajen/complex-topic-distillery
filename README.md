@@ -5,7 +5,7 @@
 **Pattern Recognition Learning Engine (PRLE)** - A new methodology for accelerating executive learning of complex concepts through experiential pattern matching.
 
 ### Key Achievement
-**15-minute VSM mastery** achieved through percussion ensemble pattern recognition transfer
+**15-minute basic VSM understanding** expanding to **30-45 minutes for advanced mastery** through experiential pattern recognition transfer
 
 ### Essential Reading
 1. **[Pattern Recognition Learning Engine](current-breakthrough/Pattern_Recognition_Learning_Engine.md)** - Complete universal methodology
@@ -18,11 +18,11 @@
 ## Project Organization
 
 ### Latest Development (August 23, 2025)
-**Pattern Recognition Learning Engine** - Solving "how to help anyone learn anything quickly"
+**Pattern Recognition Learning Engine** - A promising approach for helping executives learn complex concepts quickly
 
 **Key Files:**
 - [`Pattern_Recognition_Learning_Engine.md`](current-breakthrough/Pattern_Recognition_Learning_Engine.md) - Universal learning acceleration methodology
-- [`VSM_Learning_Acceleration_Demo.md`](current-breakthrough/VSM_Learning_Acceleration_Demo.md) - Viable Systems Model learning in 15 minutes
+- [`VSM_Learning_Acceleration_Demo.md`](current-breakthrough/VSM_Learning_Acceleration_Demo.md) - VSM learning from basic (15 min) to advanced (30-45 min) understanding
 
 **What This Solves:**
 - Accelerated learning of complex concepts (VSM, AI systems, cybernetics, etc.)
@@ -107,9 +107,9 @@
 - **Immediate Application**: Practical usage within learning session
 - **Universal Application**: Any complex concept with appropriate domain mapping
 
-### Proven Results
-- **VSM Learning**: 15 minutes from zero knowledge to practical diagnostic ability
-- **Pattern Recognition**: 8 executive frameworks for immediate application
+### Demonstrated Results
+- **VSM Learning**: 15 minutes for basic understanding, 30-45 minutes for advanced organizational diagnostic ability
+- **Pattern Recognition**: 11 executive frameworks spanning basic to sophisticated applications
 - **Transfer Validation**: Successful application to organizational scenarios
 
 ---
@@ -123,7 +123,7 @@
 - Create facilitator training materials
 - Build pattern mapping libraries for common technical concepts
 
-**Implementation Ready**: Both PRLE methodology and VSM learning frameworks ready for immediate business application.
+**Implementation Ready**: PRLE methodology and two-tier VSM learning frameworks available for business application testing.
 
 ---
 
