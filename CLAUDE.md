@@ -54,7 +54,7 @@ Effective explanations should:
 - **Intelligence Symbiosis**: AI-human cognitive partnerships that preserve executive sovereignty while providing technical awareness
 
 ### Research Foundation
-- Research notes on pedagogical approaches and system architecture (`notes.md`)
+- Research notes on pedagogical approaches and system architecture (`research-foundation/notes.md`)
 - Analysis of successful explanation patterns (ZKP document using magic show/OSI analogies)
 - Conceptual framework for cybernetics explanations using organizational control systems
 
@@ -68,8 +68,10 @@ When working on this project:
 
 ## Key Reference Materials
 
-- `notes.md`: Contains comprehensive analysis of the pedagogy engine concept, successful explanation patterns, and architectural approaches
-- `Explaining_Zero-Knowledge_Proof_Layers.pdf`: Reference document demonstrating effective layered explanation using magic show metaphor
+- `research-foundation/notes.md`: Contains comprehensive analysis of the pedagogy engine concept, successful explanation patterns, and architectural approaches
+- `phase-1-zkp-trilogy/Explaining_Zero-Knowledge_Proof_Layers.pdf`: Reference document demonstrating effective layered explanation using magic show metaphor
+- `current-breakthrough/Pattern_Recognition_Learning_Engine.md`: Complete PRLE methodology for universal learning acceleration
+- `current-breakthrough/VSM_Learning_Acceleration_Demo.md`: VSM learning proof-of-concept with 8 executive frameworks
 
 ## Domain Examples
 
